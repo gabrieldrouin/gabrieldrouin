@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Gabriel Drouin</h1>
 <h3 align="center">Student in Business Informatics at the Université de Sherbrooke</h3>
 
