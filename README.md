@@ -16,8 +16,8 @@
   <li>☕️ <b>OOP Design Patterns with Java</b></li>
  </ul>
  </li>
- <li>👯 <b>I’m looking to collaborate on: Technical writing and documentation for open source projects</b></li>
- <li>🤔 <b>I’m looking for help with: Learning NoSQL best principles</b></li>
- <li>💬 <b>Ask me about: Growing brands and projects online through organic social media content</b></li>
- <li>📫 <b>How to reach me: <a href="https://www.linkedin.com/in/gabrieldrouin/>**🔗 LinkedIn</a></b></li>
+ <li>👯 I’m looking to collaborate on: <b>Technical writing and documentation for open source projects</b></li>
+ <li>🤔 I’m looking for help with: <b>Learning NoSQL best principles</b></li>
+ <li>💬 Ask me about: <b>Growing brands and projects online through organic social media content</b></li>
+ <li>📫 How to reach me: <b><a href="https://www.linkedin.com/in/gabrieldrouin/>**🔗 LinkedIn</a></b></li>
 </ul>
