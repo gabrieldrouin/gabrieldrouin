@@ -15,5 +15,5 @@
  </li>
  <li>👯 I’m looking to collaborate on: <b>Technical writing, documentation and translation (french) for open source projects</b></li>
  <li>💬 Ask me about: <b>Growing brands and projects online through organic social media content</b></li>
- <li>📫 How to reach me: <b><a href="https://www.linkedin.com/in/gabrieldrouin/">LinkedIn</a></b> or 📧 <a href="mailto:info@gabrieldrouin.com">info@gabrieldrouin.com</a></li> 
+ <li>📫 How to reach me: <b><a href="https://www.linkedin.com/in/gabrieldrouin/">LinkedIn</a></b> or <a href="mailto:info@gabrieldrouin.com">info@gabrieldrouin.com</a></li> 
 </ul>
