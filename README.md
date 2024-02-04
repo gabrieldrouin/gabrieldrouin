@@ -7,7 +7,7 @@
  <!--<li>⚡ Fun fact ...</li>-->
  <li>🌱 I’m currently learning:
  <ul class="square">
-  <li>💻 <b>React + Node Web Development</b></li>
+  <li>💻 <b>React + Node.js Web Development</b></li>
   <li>⚙️ <b>Assembly with ARMv8</b></li>
   <li>📚 <b>Data Structures and Algorithms with C++</b></li>
   <li>☕️ <b>OOP Design Patterns with Java</b></li>
