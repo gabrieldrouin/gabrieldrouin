@@ -8,7 +8,7 @@
  <li>🌱 I’m currently learning:
  <ul class="square">
   <li>💻 <b>Next.js with Typescript, Tailwind, Drizzle and whatever the hot new thing is</b></li>
-  <li>📚 <b>20+ languages through Brian P. Hogan's 57 exercices for Programmers</b></li>
+  <li>📚 <b>New languages through Brian P. Hogan's 57 exercices for Programmers</b></li>
   <li>🔎 <b>Vim keybindings in VSCode (still haven't found how to exit)</b></li>
  </ul>
  </li>
