@@ -14,6 +14,7 @@
  </li>
  <li>-->
   📫 Reach out: <b><a href="https://www.linkedin.com/in/gabrieldrouin/">LinkedIn</a></b> or <a href="mailto:info@gabrieldrouin.com">info@gabrieldrouin.com</a>
+  <br>
   ✍️ Read me on <b><a href="https://medium.com/@gabrieldrouin">Meidum</a></b>
 <!-- </li> 
 </ul>-->
