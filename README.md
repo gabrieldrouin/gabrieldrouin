@@ -5,16 +5,12 @@
  <!--<li>🎥 I’m currently building ...</li>-->
  <!--<li>😄 Pronouns ...</li>-->
  <!--<li>⚡ Fun fact ...</li>-->
- <!--<li>🌱 Current Coursework:
+ <li>🌱 Currently learning:
  <ul class="square">
-  <li>💻 <b>Next.js with Typescript, Tailwind, Drizzle and whatever the hot new thing is</b></li>
-  <li>📚 <b>New languages through Brian P. Hogan's 57 exercices for Programmers</b></li>
-  <li>🔎 <b>Vim keybindings in VSCode (still haven't found how to exit)</b></li>
+  <li>💻 <b>Go with bootdev's <a href="https://www.boot.dev/courses/learn-pub-sub-rabbitmq">RabbitMQ course</a> and CodeCrafters' <a href="https://app.codecrafters.io/courses/redis/overview">build your own Redis</a></b></li>
  </ul>
  </li>
- <li>-->
-  📫 Reach out: <b><a href="https://www.linkedin.com/in/gabrieldrouin/">LinkedIn</a></b> or <a href="mailto:info@gabrieldrouin.com">info@gabrieldrouin.com</a>
-  <br>
-  ✍️ Read me on: <b><a href="https://medium.com/@gabrieldrouin">Medium</a></b>
-<!-- </li> 
-</ul>-->
+📫 Reach out: <b><a href="https://www.linkedin.com/in/gabrieldrouin/">LinkedIn</a></b> or <a href="mailto:info@gabrieldrouin.com">info@gabrieldrouin.com</a>
+<br>
+✍️ Read me on: <b><a href="https://medium.com/@gabrieldrouin">Medium</a></b>
+
