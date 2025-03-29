@@ -5,7 +5,7 @@
  <!--<li>🎥 I’m currently building ...</li>-->
  <!--<li>😄 Pronouns ...</li>-->
  <!--<li>⚡ Fun fact ...</li>-->
-🌱 Currently learning Go with bootdev's <a href="https://www.boot.dev/courses/learn-pub-sub-rabbitmq">RabbitMQ course</a> and CodeCrafters' <a href="https://app.codecrafters.io/courses/redis/overview">build your own Redis</a></li>
+🌱 Currently learning <a href="https://go.dev/">Go</a> with bootdev's <a href="https://www.boot.dev/courses/learn-pub-sub-rabbitmq">RabbitMQ course</a> and CodeCrafters' <a href="https://app.codecrafters.io/courses/redis/overview">build your own Redis</a></li>
 <br>
 📫 Reach out: <b><a href="https://www.linkedin.com/in/gabrieldrouin/">LinkedIn</a></b> or <a href="mailto:info@gabrieldrouin.com">info@gabrieldrouin.com</a>
 <br>
