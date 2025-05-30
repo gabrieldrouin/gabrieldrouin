@@ -9,7 +9,7 @@
 <br>
 🔭 Studying telematics, databases, cryptography and IT security @ USherbrooke
 <br>
-🎥 Working on distributed systems and data pipelines @ Flare
+🎥 Contributor for Venice by LinkedIn
 <br>
 📫 Reach out: <b><a href="https://www.linkedin.com/in/gabrieldrouin/">LinkedIn</a></b> or <a href="mailto:info@gabrieldrouin.com">info@gabrieldrouin.com</a>
 <br>
